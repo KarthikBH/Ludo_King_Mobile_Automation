@@ -1,2 +1,2 @@
-# Ludo_King_Mobile_Automation
+# Ludo King Mobile Automation
 Plays Ludo King in Android mobile.
